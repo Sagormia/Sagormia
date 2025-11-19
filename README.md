@@ -6,17 +6,13 @@
 <h1 align="center">Hi, I'm Md. Sagor Mia 👋</h1>
 <h3 align="center">Front-End Developer | MERN Stack Developer</h3>
 
----
-
-## 📍 Location & 📧 Contact
-- **Location:** Bangladesh  
-- **Email:** your-email@example.com  
-
----
 
 ## 🧑‍💼 About Me
-I'm a passionate Web Developer focused on building modern, responsive, and user-friendly applications.  
-My goal is to create clean UI, write maintainable code, and learn new tools that make development faster and better.
+I'm a passionate Web Developer focused on building modern, responsive, and user-friendly applications. My goal is to create clean UI, write maintainable code, and learn new tools that make development faster and better.
+
+I enjoy turning ideas into real web experiences using React, Tailwind, and JavaScript. Recently, I've been diving deeper into backend development, exploring Node.js, Express, and Firebase to build full-stack applications. I'm always excited to learn, improve, and take on new challenges—whether that’s a new framework, UI concept, or a complex problem to solve.
+
+---
 
 ### 🌐 Connect With Me
 <p>
@@ -28,8 +24,12 @@ My goal is to create clean UI, write maintainable code, and learn new tools that
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   &nbsp;
-  <a href="https://facebook.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" />
+  <a href="https://www.facebook.com/sagor018.freelancer" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2/fff" height="48" />
+  </a>
+  &nbsp;
+  <a href="mailto:ksagorkhan081@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
@@ -58,46 +58,24 @@ My goal is to create clean UI, write maintainable code, and learn new tools that
 
 ### **Tools & Others**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,xd" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sagormia&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagormia&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagormia&theme=tokyonight" />
 </p>
 
----
-
-## 📌 Pinned Repositories
-
-### 🔗 Tourism Website
-Modern tourism web app with Firebase authentication and dynamic destination features.  
-**Live:** https://example.com  
-**Tech Stack:** React, Tailwind, Firebase, Node.js, Express, MongoDB  
+<p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagormia&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=Sagormia&theme=tokyo-night" style="border-radius:6px;" />
+</p>
 
 ---
 
-### 🔒 MERN Authentication System
-Secure auth system using Firebase + JWT with protected routes and validation.  
-**Live:** https://example.com  
-**Tech Stack:** React, Firebase, Node.js, Express, MongoDB  
-
----
-
-### 🏠 Real Estate Listing App
-Full-featured property listing platform with filtering, image upload & search.  
-**Live:** https://example.com  
-**Tech Stack:** React, Tailwind, Node.js, Express, MongoDB  
-
----
-
-## ⭐ Fun Fact
-💡 I believe creativity + clean code = the best digital experience.
+## 📌 Pinned Repositories  
+👉 Check out my pinned repositories below ⬇️
