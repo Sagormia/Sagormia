@@ -3,8 +3,8 @@
   <img src="https://via.placeholder.com/1200x300.png?text=Md+Sagor+Mia+-+Front-End+Developer" alt="Banner"/>
 </p>
 
-<h1 align="center">Hi, I'm Md. Sagor Mia 👋</h1>
-<h3 align="center">Front-End Developer | MERN Stack Developer</h3>
+# Hi, I'm Md. Sagor Mia 👋
+<img src="https://readme-typing-svg.demolab.com?font=Besley&weight=600&size=22&pause=1000&color=FF6900&width=435&lines=Front-End+Developer;MERN+Stack+Developer;HTML+Developer" alt="Typing SVG" />
 
 
 ## 🧑‍💼 About Me
