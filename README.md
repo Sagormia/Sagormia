@@ -66,8 +66,8 @@ I enjoy turning ideas into real web experiences using React, Tailwind, and JavaS
 ## 📊 GitHub Stats
 
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sagormia&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagormia&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sagormia&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagormia&theme=tokyonight" />
 </p>
 
 <p>
