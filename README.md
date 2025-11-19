@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Md+Sagor+Mia+-+Front-End+Developer" alt="Banner"/>
+  <img src="https://i.ibb.co.com/Dgv9gJ1k/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="Banner"/>
 </p>
 
 # Hi, I'm Md. Sagor Mia 👋
