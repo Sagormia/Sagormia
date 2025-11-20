@@ -16,7 +16,7 @@ I enjoy turning ideas into real web experiences using React, Tailwind, and JavaS
 
 ### 🌐 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/md-sagor-mia-06a039165/" target="_blank">
+  <a href="https://www.linkedin.com/in/mdsagormia01/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;
